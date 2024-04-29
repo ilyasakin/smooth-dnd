@@ -1,5 +1,5 @@
 {
-  "name": "trello-smooth-dnd",
+  "name": "kuika-smooth-dnd",
   "version": "1.0.0",
   "description": "Drag and Drop library to support react-trello project",
   "main": "./dist/index.js",
@@ -15,14 +15,10 @@
     "draggable",
     "dnd"
   ],
-  "author": {
-    "name": "RC",
-    "email": "rc.chandru@gmail.com"
-  },
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rcdexta/smooth-dnd"
+    "url": "https://github.com/ilyasakin/kuika-smooth-dnd"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
