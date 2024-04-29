@@ -4,7 +4,8 @@
   "description": "Drag and Drop library to support react-trello project",
   "main": "./dist/index.js",
   "scripts": {
-    "build": "webpack --mode production"
+    "build": "webpack --mode production",
+    "prepublish": "npm run build"
   },
   "keywords": [
     "sortable",
